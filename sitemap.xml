@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://noblejoolnoon.com/</loc>
+    <lastmod>2025-02-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://noblejoolnoon.com/assets/images/hero_bg.png</image:loc>
+      <image:title>노블줄눈 프리미엄 인테리어</image:title>
+      <image:caption>고급스러운 거실 줄눈 시공 사례</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://noblejoolnoon.com/assets/images/material_polyurea.png</image:loc>
+      <image:title>폴리우레아 줄눈 소재</image:title>
+      <image:caption>최고급 폴리우레아 소재 텍스처</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://noblejoolnoon.com/assets/images/big_lion_real.png</image:loc>
+      <image:title>빅라이언 줄눈 소재</image:title>
+      <image:caption>빅라이언 프리미엄 줄눈 시공 소재</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://noblejoolnoon.com/assets/images/kerapoxy_real.png</image:loc>
+      <image:title>케라폭시 줄눈 소재</image:title>
+      <image:caption>케라폭시 고내구성 줄눈 소재</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://noblejoolnoon.com/assets/images/polyurea_real.png</image:loc>
+      <image:title>폴리우레아 표준형 소재</image:title>
+      <image:caption>폴리우레아 검증된 품질의 스탠다드 소재</image:caption>
+    </image:image>
+  </url>
+</urlset>

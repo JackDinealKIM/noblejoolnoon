@@ -1,0 +1,39 @@
+# robots.txt for noblejoolnoon.com
+# 노블줄눈 (Noble JOOLNOON) - 프리미엄 친환경 줄눈 시공
+
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.backup$
+Disallow: /*.tmp$
+
+# Sitemap location
+Sitemap: https://noblejoolnoon.com/sitemap.xml
+
+# Crawl-delay (optional, adjust as needed)
+# Crawl-delay: 10
+
+# Allow specific bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /assets/images/
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+# Block bad bots (optional)
+User-agent: BadBot
+Disallow: /
+
+User-agent: AhrefsBot
+Crawl-delay: 30
+
+User-agent: SemrushBot
+Crawl-delay: 30
